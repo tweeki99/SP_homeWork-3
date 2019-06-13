@@ -1,0 +1,25 @@
+﻿<Window x:Class="MusicHw.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MusicHw"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <Label Name="lblStatus" Content="Not playing..." HorizontalContentAlignment="Center" Margin="5" />
+        <WrapPanel HorizontalAlignment="Center">
+            <Button Name="btnPlay" Click="BtnPlayClick">Play</Button>
+            <Button Name="btnPause" Margin="5,0" Click="BtnPauseClick">Pause</Button>
+            <Button Name="btnStop" Click="BtnStopClick">Stop</Button>
+        </WrapPanel>
+        <Button Name="btnChange" Click="BtnChangeClick" Width="100" Margin="5">Choose music</Button>
+        <RichTextBox Name="richTextBox" Height="297" >
+            <RichTextBox.Resources>
+                <Style TargetType="{x:Type Paragraph}">
+                    <Setter Property="Margin" Value="0" />
+                </Style>
+            </RichTextBox.Resources>
+        </RichTextBox>
+    </StackPanel>
+</Window>

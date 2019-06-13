@@ -1,0 +1,15 @@
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\bin\Debug\MusicHw.exe.config
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\bin\Debug\MusicHw.exe
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\bin\Debug\MusicHw.pdb
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw.csprojAssemblyReference.cache
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MainWindow.g.cs
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\App.g.cs
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw_MarkupCompile.cache
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw_MarkupCompile.lref
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MainWindow.baml
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw.g.resources
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw.Properties.Resources.resources
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw.csproj.GenerateResource.cache
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw.csproj.CoreCompileInputs.cache
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw.exe
+C:\Users\шипиловд\source\repos\MusicHw\MusicHw\obj\Debug\MusicHw.pdb
